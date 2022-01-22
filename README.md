@@ -36,4 +36,4 @@ Learn more about options, solidify your understanding of the MVC design pattern,
 * Форматирование String.
 * Color literals.
 
-<img src="https://user-images.githubusercontent.com/64682381/150636890-259d94c6-4620-4e5a-b0de-0c34c59347e8.png" width="100"> <img src="https://user-images.githubusercontent.com/64682381/150636893-e766e15d-7b0f-40dd-9a1a-d0b4e045a36e.png" width="100"> <img src="https://user-images.githubusercontent.com/64682381/150636903-9742cd24-163b-4b7d-bee5-e22a68ae8b7f.png" width="100"> <img src="https://user-images.githubusercontent.com/64682381/150636905-be58ded4-66c7-4713-b592-4e27395da034.png" width="100">
+<img src="https://user-images.githubusercontent.com/64682381/150636890-259d94c6-4620-4e5a-b0de-0c34c59347e8.png" width="200"> <img src="https://user-images.githubusercontent.com/64682381/150636893-e766e15d-7b0f-40dd-9a1a-d0b4e045a36e.png" width="200"> <img src="https://user-images.githubusercontent.com/64682381/150636903-9742cd24-163b-4b7d-bee5-e22a68ae8b7f.png" width="200"> <img src="https://user-images.githubusercontent.com/64682381/150636905-be58ded4-66c7-4713-b592-4e27395da034.png" width="200">
